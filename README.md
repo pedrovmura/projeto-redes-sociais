@@ -1,5 +1,4 @@
 <h2>PT-BR:</h2>
-<br>
 <h1>PROJETO REDES SOCIAIS:</h1>
 <br>
 <p>Fiz esse projeto que envolve apenas HTML e CSS, para divulgar minhas redes sociais de uma forma interativa e mostrar algumas das minhas habilidades. Ao invés de uma lista com os links, usei o frame de um iphone para simular o uso de um celular e ao lado do iphone tem os 'botões', que não são botões porque o projeto não conta com JS, que mudam o conteúdo do iphone. O projeto também se adapta ao tamanho da tela do usuário, sem que ele deixe de ter acesso ao conteúdo.</p>
@@ -15,7 +14,6 @@
 <hr>
 
 <h2>EN-US:</h2>
-<br>
 <h1>SOCIAL MEDIA PROJECT:</h1>
 <br>
 <p>I made this project using only HTML and CSS to share my social media links in an interactive way and showcase some of my skills. Instead of a traditional list of links, I used an iPhone frame to simulate using a smartphone, and next to the iPhone there are 'buttons', which aren't actual buttons since the project doesn't use JS, that change the content displayed inside the iPhone. The project also adapts to the user's screen size without losing access to any content.</p>
