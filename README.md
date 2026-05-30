@@ -10,6 +10,7 @@
     <li> O botão do 'Linkedin', que coloca na tela uma foto do meu perfil da plataforma </li>
     <li> O botão do 'Instagram', que coloca na tela uma foto do meu perfil da plataforma </li>
 </ol>
+<p>Na tela das minhas redes sociais, também tem um botão na parte inferior que, ao clicá-lo, você é levado diretamente para o meu perfil na respectiva rede social, facilitando a procura.</p>
 
 <hr>
 
@@ -25,3 +26,4 @@
     <li>The 'LinkedIn' button, which displays a screenshot of my profile from that platform on the screen</li>
     <li>The 'Instagram' button, which displays a screenshot of my profile from that platform on the screen</li>
 </ol>
+<p>On my social media screens, there is also a button at the bottom that, when clicked, takes you directly to my profile on that respective social network, making it easier to find.</p>
